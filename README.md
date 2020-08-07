@@ -1,3 +1,5 @@
 # Poker Stats
-<img src="https://curiosfera-historia.com/wp-content/uploads/Origen-e-hsitoria-del-p%C3%B3ker-1.jpg"></img>
-Poker Probability 
+<img src="https://okdiario.com/img/2018/06/19/como-jugar-al-poker-655x368.jpg"></img>
+--- 
+
+This Repository is just an example for how can gets probability of poker hands, was an exercise in Platzi www.platzi.com, Never stop to learn.
